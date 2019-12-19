@@ -5,7 +5,9 @@ const getState = ({ getStore, getActions, setStore }) => {
 				{
 					title: "FIRST",
 					background: "white",
-					initial: "white"
+					initial: "white",
+					image:
+						"https://www.biography.com/.image/t_share/MTQzMzA3MzU5NDg4MzIxMDk2/dave-chappelle_gettyimages-481295252jpg.jpg"
 				},
 				{
 					title: "SECOND",
